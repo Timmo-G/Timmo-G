@@ -63,6 +63,7 @@ I am a developer with a background in **Architecture**, pivoting towards the rea
 ### 📫 Connect with me | 联系我
 <p align="left">
   <a href="mailto:deyuan.gao@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="https://blog.csdn.net/TIIMOO?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/-CSDN-FF5722?style=flat-square&logo=csdn&logoColor=white" alt="CSDN"/></a>
   <!-- Optional: Add your Blog or LinkedIn here -->
   <!-- <a href="https://your-blog-link"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog"/></a> -->
 </p>
