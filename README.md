@@ -44,7 +44,7 @@ I am a developer with a background in **Architecture**, pivoting towards the rea
       <p><em>Keywords: 3DGS, NeRF, Differentiable Rendering, CUDA</em></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Timmo-G/C_Learn">⚙️ C++ Graphics Foundation</a></h3>
+      <h3><a href="https://github.com/Timmo-G/C_Learn">⚙️ C Foundation</a></h3>
       <p>Building robust low-level foundations. Practicing data structures, algorithms, and memory management essential for graphics engines.</p>
       <p><em>Keywords: Data Structures, Algorithms, Performance Optimization</em></p>
     </td>
@@ -55,7 +55,6 @@ I am a developer with a background in **Architecture**, pivoting towards the rea
 
 ### 📊 GitHub Analytics | 数据看板
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Timmo-G&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Timmo-G&theme=tokyonight&hide_border=true"/>
 </p>
 
